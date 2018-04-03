@@ -7,7 +7,7 @@ enum CarColorName{
  BLACK, BLUE, GRAY, GREEN, YELLOW, RED, WHITE, UNKNOWN;
 }
 public class RacingCar{
-
+    int kuy;
     private String model;
     private CarBrandName brand;
     private CarColorName color;
