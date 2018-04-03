@@ -8,6 +8,7 @@ enum CarColorName{
 }
 public class RacingCar{
     int kuy;
+ int kuyrai
     private String model;
     private CarBrandName brand;
     private CarColorName color;
